@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Data Engineer focused on building scalable data pipelines and analytics solutions <br>across finance, healthcare, and retail domains. I enjoy collaborating on data platform design, <br>ETL optimization, and cloud-based data architecture. I’m always open to help or discuss <br>big data, Spark, and modern data warehousing practices. Currently learning <br>advanced distributed processing and real-time streaming systems.
+I’m a Data Engineer skilled in building secure, scalable data platforms, advanced analytics pipelines, and business intelligence solutions using Databricks, Azure, AWS, GCP, and Snowflake. Experienced with big data tools like Spark and Kafka and full data lifecycle management from ingestion to governance and reporting across retail, consulting, and healthcare industries. Proven success in leading projects such as customer analytics, centralized data repositories, and real-time streaming frameworks to boost data quality, reporting accuracy, and business efficiency. Ready to leverage broad technical expertise to deliver innovative, reliable data solutions that support organizational objectives.
 
 
 ## 🌐 Socials:
